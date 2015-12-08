@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Facebook Post Feed\n"
+"POT-Creation-Date: 2015-11-22 15:41+0100\n"
+"PO-Revision-Date: 2015-11-22 15:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: Mario Concina <mario.concina@gmail.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/Mario/Desktop/easy-facebook-page-feed\n"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/easy-facebook-post-feed.php:64
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:5
+msgid "- Enter a valid app id<br />"
+msgstr "- Inserisci un'app id valida<br />"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/easy-facebook-post-feed.php:65
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:6
+msgid "- Enter a valid app secret<br />"
+msgstr "- Inserisci un'app secret valida<br />"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/easy-facebook-post-feed.php:66
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:7
+msgid "- Enter a valid page id"
+msgstr "- Inserisci un page id corretto"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/easy-facebook-post-feed.php:78
+#: /Users/Mario/Desktop/easy-facebook-page-feed/easy-facebook-post-feed.php:106
+msgid "developed by"
+msgstr "sviluppato da"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/easy-facebook-post-feed.php:99
+msgid "read more &raquo;"
+msgstr "leggi tutto &raquo;"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/easy-facebook-post-feed.php:111
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:12
+msgid "<strong>Please, fix this errors</strong>"
+msgstr "<strong>Per favore, correggi i seguenti errori</strong>"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/docs.php:2
+msgid "Documentation"
+msgstr "Documentazione"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/docs.php:3
+msgid ""
+"Easy Facebook Post Feed is a quickly Wordpress Plugin that allow user to "
+"display a custom Facebook Feed in your website.<br /><br />"
+msgstr ""
+"Easy Facebook Post Feed è un semplice ed intuitivo plugin per mostrare il "
+"feed della tua pagina Facebook sul sito, utilizzando direttamente uno "
+"Shortcode oppure un Widget<br /><br />"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/docs.php:7
+msgid ""
+"1. Connect at <a href=\"https://developers.facebook.com/\" target=\"_blank"
+"\">developers.facebook.com</a> to create your own app"
+msgstr ""
+"1. Collegati su <a href=\"https://developers.facebook.com/\" target=\"_blank"
+"\">developers.facebook.com</a> per creare la tua app"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/docs.php:8
+msgid "2. Click on \"My App\" menu and \"Add a New App\""
+msgstr "2. Clicca su \"My App\" e successivamente su \"Add a New App\""
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/docs.php:9
+msgid "3. Choose app for website (www) and give it a name"
+msgstr "3. Scegli app per sito web (www) e scegli un nome"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/docs.php:10
+msgid ""
+"4. Copy App id and secret and past in <a href=\"?page=EasyFacebookPostFeed"
+"\">App Setting</a>"
+msgstr ""
+"4. Copia App Id e Secret id, incollale su <a href=\"?"
+"page=EasyFacebookPostFeed\">App Setting</a>"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/docs.php:13
+msgid "Override css rules"
+msgstr "Sovrascrivi le regole css"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/docs.php:14
+msgid ""
+"Copy and paste in your stylesheet to override default rules (eg: font family "
+"or text align):"
+msgstr ""
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/docs.php:28
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:146
+msgid "Live demo"
+msgstr ""
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:2
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:19
+msgid "Impostazioni modificate correttamente"
+msgstr ""
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:41
+msgid "Api settings"
+msgstr "Imposta le api Facebook"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:56
+msgid "Page id"
+msgstr ""
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:58
+msgid ""
+"Insert only id or name of page. Eg: <a href=\"https://www.facebook.com/"
+"ConcinaMario\" target=\"_blank\">https://www.facebook.com/ConcinaMario</a> "
+"use <strong>ConcinaMario</strong> as Page id"
+msgstr ""
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:64
+#: /Users/Mario/Desktop/easy-facebook-page-feed/widget.php:28
+msgid "Number of posts to display"
+msgstr "Numero di post da mostrare"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:70
+msgid "Customize feed box"
+msgstr "Personalizza il box"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:73
+msgid "Widget Title"
+msgstr ""
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:79
+#: /Users/Mario/Desktop/easy-facebook-page-feed/widget.php:34
+msgid "Width"
+msgstr "Larghezza"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:85
+#: /Users/Mario/Desktop/easy-facebook-page-feed/widget.php:40
+msgid "Height"
+msgstr "Altezza"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:91
+#: /Users/Mario/Desktop/easy-facebook-page-feed/widget.php:46
+msgid "Background color"
+msgstr "Colore di sfondo"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:97
+#: /Users/Mario/Desktop/easy-facebook-page-feed/widget.php:52
+msgid "Border color"
+msgstr "Colore del bordo"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:103
+#: /Users/Mario/Desktop/easy-facebook-page-feed/widget.php:58
+msgid "Display images inside post"
+msgstr "Mostra le immagini di un post"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:110
+msgid "Image alignment"
+msgstr "Allineamento immagine"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:113
+msgid "Left"
+msgstr "Sinistra"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:114
+msgid "Text below"
+msgstr "Testo sotto"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:115
+msgid "Right"
+msgstr "Destra"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:121
+msgid "Display date"
+msgstr "Mostra data di pubblicazione post"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:127
+#: /Users/Mario/Desktop/easy-facebook-page-feed/widget.php:64
+msgid "Message length"
+msgstr "Lunghezza del messaggio"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:127
+#: /Users/Mario/Desktop/easy-facebook-page-feed/widget.php:64
+msgid "0 = full length"
+msgstr "0 = illimitato"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:129
+#: /Users/Mario/Desktop/easy-facebook-page-feed/widget.php:66
+msgid "characters"
+msgstr "caratteri"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:133
+#: /Users/Mario/Desktop/easy-facebook-page-feed/widget.php:70
+msgid "Footer info"
+msgstr "Piè di pagina"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/pages/settings.php:140
+msgid "Save"
+msgstr "Salva"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/widget.php:7
+msgid "Easy Facebook Post Feed"
+msgstr ""
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/widget.php:8
+msgid "Allows user to display custom Facebook post to own page"
+msgstr ""
+"Consente di mostrare i post Facebook in un widget personalizzabile, sul "
+"proprio sito Wordpress"
+
+#: /Users/Mario/Desktop/easy-facebook-page-feed/widget.php:22
+msgid "Widget title"
+msgstr "Titolo del widget"

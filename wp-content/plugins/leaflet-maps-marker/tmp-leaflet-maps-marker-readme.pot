@@ -1,0 +1,1032 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Leaflet Maps Marker (Google Maps, OpenStreetMap, Bing Maps)"
+msgstr ""
+
+#. Short description.
+msgid "The most comprehensive &amp; user-friendly mapping solution for WordPress"
+msgstr ""
+
+#. Screenshot description.
+msgid "Frontend: marker map (with open popup and image, basemap: OGD Vienna satellite, overlay: OGD Vienna addresses, controlbox: expanded)"
+msgstr ""
+
+#. Screenshot description.
+msgid "Frontend: layer map (5 marker, different icons, basemap: OpenStreetMap, controlbox: collapsed)"
+msgstr ""
+
+#. Screenshot description.
+msgid "Frontend: map with WMS layer enabled and additional marker"
+msgstr ""
+
+#. Screenshot description.
+msgid "Frontend: layer map in Google Earth (via KML export)"
+msgstr ""
+
+#. Screenshot description.
+msgid "Frontend: layer map in Google Maps (via KML export)"
+msgstr ""
+
+#. Screenshot description.
+msgid "Frontend: showing marker in Wikitude (via Augmented-Reality API)"
+msgstr ""
+
+#. Screenshot description.
+msgid "Backend: simplified editor - create maps with an intuitive interface"
+msgstr ""
+
+#. Screenshot description.
+msgid "Backend: advanced editor (optional) - allows you to set all available options"
+msgstr ""
+
+#. Screenshot description.
+msgid "Backend: add/edit layer - allows you to fully customize the layer map (used basemap &amp; overlays, set center, map size, zoom, controlbox status etc)."
+msgstr ""
+
+#. Screenshot description.
+msgid "Backend: markerlist - for easy administration of all your markers"
+msgstr ""
+
+#. Screenshot description.
+msgid "Backend: layerlist - for easy administration of all your layers"
+msgstr ""
+
+#. Screenshot description.
+msgid "Backend: plugin settings page allows you to easily set all necessary settings &amp; restore the defaults if you messed something up"
+msgstr ""
+
+#. Screenshot description.
+msgid "Backend: csv-export of all markers - just copy and paste into your favorite spreadsheet application for use in other applications"
+msgstr ""
+
+#. Screenshot description.
+msgid "Backend: tools section - allows mass-actions more markers (assignements, deletions)"
+msgstr ""
+
+#. Screenshot description.
+msgid "Pro preview: marker clustering"
+msgstr ""
+
+#. Screenshot description.
+msgid "Pro preview: geolocation support: show and follow your location when viewing maps"
+msgstr ""
+
+#. Screenshot description.
+msgid "Pro preview: support for CSV/XLS/XLSX/ODS import and export for bulk additions and bulk updates"
+msgstr ""
+
+#. Screenshot description.
+msgid "Pro preview: GPX tracks"
+msgstr ""
+
+#. Screenshot description.
+msgid "Pro preview: HTML5 fullscreen maps"
+msgstr ""
+
+#. Screenshot description.
+msgid "Pro preview: Minimaps"
+msgstr ""
+
+#. Screenshot description.
+msgid "Pro preview: mobile web app support for fullscreen maps and optimized mobile viewport"
+msgstr ""
+
+#. Screenshot description.
+msgid "Pro preview: custom Google Maps styling"
+msgstr ""
+
+#. Screenshot description.
+msgid "Pro preview: QR codes with custom backgrounds"
+msgstr ""
+
+#. Screenshot description.
+msgid "Pro preview: Google Adsense for maps integration"
+msgstr ""
+
+#. Screenshot description.
+msgid "Pro preview: upload icon button &amp; custom icon directory"
+msgstr ""
+
+#. Screenshot description.
+msgid "Pro preview: backup and restore of settings"
+msgstr ""
+
+#. Screenshot description.
+msgid "Pro preview: advanced recent marker widget"
+msgstr ""
+
+#. Screenshot description.
+msgid "Pro preview: MapsMarker API"
+msgstr ""
+
+#. Screenshot description.
+msgid "Pro preview: whitelabel backend admin pages"
+msgstr ""
+
+#. Screenshot description.
+msgid "Pro preview: advanced permission settings"
+msgstr ""
+
+#. Found in description header.
+msgid "FULL FEATURE LIST"
+msgstr ""
+
+#. Found in description header.
+msgid "TECHNICAL DETAILS"
+msgstr ""
+
+#. Found in description header.
+msgid "46 TRANSLATIONS - AND COUNTING!"
+msgstr ""
+
+#. Found in description header.
+msgid "Need more power? Try Maps Marker Pro"
+msgstr ""
+
+#. Found in description header.
+msgid "Plugin's Official Site"
+msgstr ""
+
+#. Found in description list item.
+msgid "pin your favorites places with <strong>markers</strong>,"
+msgstr ""
+
+#. Found in description list item.
+msgid "show <strong>directions</strong> for your locations,"
+msgstr ""
+
+#. Found in description list item.
+msgid "use integrated <strong>address search</strong> for quick results,"
+msgstr ""
+
+#. Found in description list item.
+msgid "choose from over <strong>1000 free, customizable icons</strong> from <a href=\"https://mapicons.mapsmarker.com\">Maps Icons Collection</a>,"
+msgstr ""
+
+#. Found in description list item.
+msgid "add <strong>popup description text or images</strong> for each marker,"
+msgstr ""
+
+#. Found in description list item.
+msgid "organize your markers in <strong>layers</strong>,"
+msgstr ""
+
+#. Found in description list item.
+msgid "choose an <strong>individual basemap, size and zoom level</strong> for each marker and layer map"
+msgstr ""
+
+#. Found in description list item.
+msgid "display your maps by just adding a <strong>shortcode</strong> - e.g. [mapsmarker marker=\"1\"] - to posts, pages, widgets and templates"
+msgstr ""
+
+#. Found in description list item.
+msgid "on the basemap of your choice: <strong>Google Maps</strong> (road, satellite, hybrid, terrain), <strong>Open Street Map</strong>, <strong>Bing</strong> (aerial, aerials + labels, road), <strong>Mapbox</strong> (road, satellite) and any <strong>custom WMTS-map</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "and even in <strong>augmented-reality</strong> browsers like Wikitude!"
+msgstr ""
+
+#. Found in description list item.
+msgid "show directions for your locations using Google Maps, <a href=\"http://www.yournavigation.org\">yournavigation.org</a>, <a href=\"http://www.openrouteservice.org\">openrouteservice.org</a> or <a href=\"map.project-osrm.org\">map.project-osrm.org</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "configure up to 10 WMS servers to display additional information from <a href=\"https://www.mapsmarker.com/wms\">external geo data providers</a> (like the European Environment Agency) on your maps"
+msgstr ""
+
+#. Found in description list item.
+msgid "export your markers as KML file for displaying in Google Earth (<a href=\"https://demo.mapsmarker.com/features/google-earth-integration/\">view screenshot</a>) or Google Maps (<a href=\"https://demo.mapsmarker.com/features/google-maps-import/\">view screenshot</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "export your markers as GeoJSON for embedding in external websites or apps"
+msgstr ""
+
+#. Found in description list item.
+msgid "subscribe to your markers via GeoRSS or for embedding in external websites or apps"
+msgstr ""
+
+#. Found in description list item.
+msgid "export your markers as ARML for displaying in the augmented-reality browser from Wikitude (<a href=\"https://demo.mapsmarker.com/features/sample-page/\">view screenshots</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "export your markers and layers as XLSX, XLS, CSV or ODS-file"
+msgstr ""
+
+#. Found in description list item.
+msgid "show recent marker entries in a widget anywhere on your site"
+msgstr ""
+
+#. Found in description list item.
+msgid "unobtrusive scale control "
+msgstr ""
+
+#. Found in description list item.
+msgid "keyboard navigation support for maps"
+msgstr ""
+
+#. Found in description list item.
+msgid "display a list of markers below layer maps"
+msgstr ""
+
+#. Found in description list item.
+msgid "show standalone maps in fullscreen mode"
+msgstr ""
+
+#. Found in description list item.
+msgid "automatically generated geo sitemap for all maps (<a href=\"https://www.mapsmarker.com/docs/misc/how-to-submit-your-geo-sitemap-to-google/\">for submitting to Google</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "automatically add microformat geo-markup to maps to make them machine-readable"
+msgstr ""
+
+#. Found in description list item.
+msgid "create QR codes for standalone maps"
+msgstr ""
+
+#. Found in description list item.
+msgid "automatically add meta-tags with location information to maps"
+msgstr ""
+
+#. Found in description list item.
+msgid "use maps that do not reflect the real world (e.g. game, indoor or photo maps) by adding basemaps created by <a href=\"https://www.mapsmarker.com/maptiler\">maptiler</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "support for configuring <a href=\"https://www.mapsmarker.com/docs/basic-usage/how-to-register-for-a-free-google-maps-api-key-for-commercial-usage/\">custom Google Maps API keys</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "organize your markers in layers or multi-layer-maps"
+msgstr ""
+
+#. Found in description list item.
+msgid "option to switch between simplified and advanced editor"
+msgstr ""
+
+#. Found in description list item.
+msgid "TinyMCE button for easily searching and adding maps on post/pages edit screen"
+msgstr ""
+
+#. Found in description list item.
+msgid "support for custom marker timestamps for more precise KML animations (<a href=\"https://demo.mapsmarker.com/features/animated-timeline-in-kml/\">view example youtube video</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "option to set WordPress roles (administrator, editor, author, contributor) which are allowed to add/edit/delete markers and layers"
+msgstr ""
+
+#. Found in description list item.
+msgid "option to <a href=\"https://www.mapsmarker.com/docs/basic-usage/how-to-create-maps-directly-by-using-shortcodes-only/\">add marker directly</a> to posts or pages without saving them to your database"
+msgstr ""
+
+#. Found in description list item.
+msgid "audit log for changes on markers &amp; layers (saving first created by/on and last updated by/on info)"
+msgstr ""
+
+#. Found in description list item.
+msgid "mass actions for markers (assignment to layers, deletions, duplications)"
+msgstr ""
+
+#. Found in description list item.
+msgid "option to reset plugin settings to defaults"
+msgstr ""
+
+#. Found in description list item.
+msgid "dynamic preview of maps in backend (no need to reload)"
+msgstr ""
+
+#. Found in description list item.
+msgid "option to select plugin default language in settings for backend and frontend"
+msgstr ""
+
+#. Found in description list item.
+msgid "WordPress Admin Bar integration to quickly access plugins features"
+msgstr ""
+
+#. Found in description list item.
+msgid "admin dashboard widget showing latest markers "
+msgstr ""
+
+#. Found in description list item.
+msgid "support for google maps and bing map localization (cultures)"
+msgstr ""
+
+#. Found in description list item.
+msgid "full support for responsive designs (automatic resizing of maps if viewport is wider than map width)"
+msgstr ""
+
+#. Found in description list item.
+msgid "full RTL (Right-to-Left) language support"
+msgstr ""
+
+#. Found in description list item.
+msgid "full UTF8-support for cyrillic, chinese or other alphabets on marker/layername and marker popup text"
+msgstr ""
+
+#. Found in description list item.
+msgid "support for 36 languages – please check out our <a href=\"https://translate.mapsmarker.com/projects/lmm\">translations platform</a> if you want to contribute"
+msgstr ""
+
+#. Found in description list item.
+msgid "support for Retina displays to display maps in a higher resolution"
+msgstr ""
+
+#. Found in description list item.
+msgid "GeoJSON feeds for every marker and layer with <a href=\"https://www.mapsmarker.com/docs/how-to-use-jsonp-for-integration-of-markers-or-layers-on-external-sites/\">JSONP support</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "WordPress MultiSite compatibility"
+msgstr ""
+
+#. Found in description list item.
+msgid "plugin was successfully tested to ÖNORM 7700 and OWASP TOP 10 for security issues"
+msgstr ""
+
+#. Found in description list item.
+msgid "integrated check for known incompatible plugins (and instructions on how to fix)"
+msgstr ""
+
+#. Found in description list item.
+msgid "use of WordPress settings API for storing options"
+msgstr ""
+
+#. Found in description list item.
+msgid "TinyMCE editor on backend for editing popup texts"
+msgstr ""
+
+#. Found in description list item.
+msgid "dynamic changelog to show all changes since your last plugin update"
+msgstr ""
+
+#. Found in description list item.
+msgid "Security Coding: best practice (use of prepared SQL statements to prevent SQL injections; use of WordPress nounces on forms to prevent attacks and input mistakes; use of custom function names and enqueue plugin scripts/css only on plugin pages to prevent conflicts with other plugins)"
+msgstr ""
+
+#. Found in description list item.
+msgid "smooth update functions"
+msgstr ""
+
+#. Found in description list item.
+msgid "complete uninstall: one-click removal with zero data residue (also on WordPress MultiSite installations)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Afrikaans (af) thanks to Hans"
+msgstr ""
+
+#. Found in description list item.
+msgid "Arabic (ar) thanks to Abdelouali Benkheil, Aladdin Alhamda, Nedal Elghamry, yassin and Abdelouali Benkheil"
+msgstr ""
+
+#. Found in description list item.
+msgid "Bengali (ba_BD) thanks to Nur Hasan"
+msgstr ""
+
+#. Found in description list item.
+msgid "Bosnian (bs_BA) thanks to Kenan Dervišević"
+msgstr ""
+
+#. Found in description list item.
+msgid "Bulgarian (bg_BG) thanks to Andon Ivanov"
+msgstr ""
+
+#. Found in description list item.
+msgid "Catalan (ca) thanks to Vicent Cubells and Efraim Bayarri"
+msgstr ""
+
+#. Found in description list item.
+msgid "Chinese (zh_CN) thanks to John Shen and ck"
+msgstr ""
+
+#. Found in description list item.
+msgid "Chinese (zh_TW) thanks to jamesho Ho"
+msgstr ""
+
+#. Found in description list item.
+msgid "Croatian (hr) thanks to Neven Pausic, Alan Benic and Marijan Rajic"
+msgstr ""
+
+#. Found in description list item.
+msgid "Czech (cs_CZ) thanks to Viktor Kleiner and Vlad Kuzba"
+msgstr ""
+
+#. Found in description list item.
+msgid "Danish (da_DK) thanks to Mads Dyrmann Larsen and Peter Erfurt"
+msgstr ""
+
+#. Found in description list item.
+msgid "Dutch (nl_NL) thanks to Marijke Metz and Patrick Ruers"
+msgstr ""
+
+#. Found in description list item.
+msgid "English (en_US)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Finnish (fi_FI) thanks to Jessi Bjoerk"
+msgstr ""
+
+#. Found in description list item.
+msgid "French (fr_FR) thanks to Vincèn Pujol and Rodolphe Quiedeville, Fx Benard, cazal cédric, Fabien Hurelle and Thomas Guignard"
+msgstr ""
+
+#. Found in description list item.
+msgid "Galician (gl_ES) thanks to Fernando Coello"
+msgstr ""
+
+#. Found in description list item.
+msgid "German (de_DE)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Greek (el) thanks to Philios Sazeides, Evangelos Athanasiadis and Vardis Vavoulakis"
+msgstr ""
+
+#. Found in description list item.
+msgid "Hebrew (he_IL) thanks to Alon Gilad and kobi levi"
+msgstr ""
+
+#. Found in description list item.
+msgid "Hindi (hi_IN) thanks to by Outshine Solutions and Guntupalli Karunakar"
+msgstr ""
+
+#. Found in description list item.
+msgid "Hungarian (hu_HU) thanks to István Pintér and Csaba Orban"
+msgstr ""
+
+#. Found in description list item.
+msgid "Indonesian (id_ID) thanks to Andy Aditya Sastrawikarta, Emir Hartato and Phibu Reza"
+msgstr ""
+
+#. Found in description list item.
+msgid "Italian (it_IT) thanks to Luca Barbetti and Angelo Giammarresi"
+msgstr ""
+
+#. Found in description list item.
+msgid "Japanese (ja) thanks to Shu Higashi"
+msgstr ""
+
+#. Found in description list item.
+msgid "Korean (ko_KR) thanks to Andy Park"
+msgstr ""
+
+#. Found in description list item.
+msgid "Latvian (lv) thanks to Juris Orlovs and Eriks Remess"
+msgstr ""
+
+#. Found in description list item.
+msgid "Lithuanian (lt_LT) thanks to Donatas Liaudaitis"
+msgstr ""
+
+#. Found in description list item.
+msgid "Malawy (ms_MY) thanks to Mohd Zulkifli"
+msgstr ""
+
+#. Found in description list item.
+msgid "Norwegian/Bokmal (nb_NO) thanks to Inge Tang"
+msgstr ""
+
+#. Found in description list item.
+msgid "Polish (pl_PL) translation thanks to Pawel Wyszynski, Tomasz Rudnicki and Robert Pawlak"
+msgstr ""
+
+#. Found in description list item.
+msgid "Portuguese (pt_BR) thanks to Andre Santos and Antonio Hammerl"
+msgstr ""
+
+#. Found in description list item.
+msgid "Portuguese (pt_PT) translation thanks to Joao Campos"
+msgstr ""
+
+#. Found in description list item.
+msgid "Romanian (ro_RO) translation thanks to Arian, Daniel Codrea and Flo Bejgu, http://www.inboxtranslation.com"
+msgstr ""
+
+#. Found in description list item.
+msgid "Russian (ru_RU) thanks to Ekaterina Golubina (supported by Teplitsa of Social Technologies) and Vyacheslav Strenadko"
+msgstr ""
+
+#. Found in description list item.
+msgid "Slovak (sk_SK) thanks to Zdenko Podobny"
+msgstr ""
+
+#. Found in description list item.
+msgid "Slovenian (sl_SL) thanks to Anna Dukan"
+msgstr ""
+
+#. Found in description list item.
+msgid "Spanish (es_ES) thanks to David Ramirez, Alvaro Lara, Ricardo Viteri and Juan Valdes"
+msgstr ""
+
+#. Found in description list item.
+msgid "Spanish (es_MX) thanks to Victor Guevara and Eze Lazcano"
+msgstr ""
+
+#. Found in description list item.
+msgid "Swedish (sv_SE) thanks to Swedish translation thanks to Olof Odier, Tedy Warsitha, Dan Paulsson, Elger Lindgren and Anton Andreasson"
+msgstr ""
+
+#. Found in description list item.
+msgid "Thai (th) thanks to Makarapong Chathamma and Panupong Siriwichayakul"
+msgstr ""
+
+#. Found in description list item.
+msgid "Turkish (tr_TR) thanks to Emre Erkan and Mahir Tosun"
+msgstr ""
+
+#. Found in description list item.
+msgid "Uighur (ug) thanks to Yidayet Begzad"
+msgstr ""
+
+#. Found in description list item.
+msgid "Ukrainian (uk_UK) thanks to Andrexj and Sergey Zhitnitsky"
+msgstr ""
+
+#. Found in description list item.
+msgid "Vietnamese (vi) thanks to Hoai Thu"
+msgstr ""
+
+#. Found in description list item.
+msgid "Yiddish (yi) thanks to Raphael Finkel"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>latest <a href=\"http://www.leafletjs.com\">leaflet.js</a> version</strong> for higher performance &amp; usability"
+msgstr ""
+
+#. Found in description list item.
+msgid "animated <a href=\"https://www.mapsmarker.com/pro-feature-clustering\">marker clustering</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "display <a href=\"https://www.mapsmarker.com/pro-feature-gpx\">GPX tracks</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "[mobile optimized maps] (no jQuery needed) (https://www.mapsmarker.com/pro-feature-nojquery)"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/pro-feature-webapp\">mobile web app support and optimized mobile viewport</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v1.9p\">geolocation</a> - show-and-follow with real-time updates"
+msgstr ""
+
+#. Found in description list item.
+msgid "support for <a href=\"https://www.mapsmarker.com/pro-feature-import\">CSV/XLS/XLSX/ODS import and export</a> for bulk additions and bulk updates of markers"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/pro-feature-adsense\">Google Adsense for maps integration</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/pro-feature-html-fullscreen-maps\">HTML5 fullscreen maps</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/pro-feature-minimaps\">minimaps</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/pro-feature-google-styling\">custom Google Maps styling</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/pro-feature-backlink-upload-button\">option to remove backlinks</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/pro-feature-qrcode\">QR codes with custom backgrounds</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/pro-feature-backlink-upload-button\">upload icon button &amp; custom icon directory</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/pro-feature-backup-restore\">backup and restore of settings</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/pro-feature-advanced-widget\">advanced recent marker widget</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/pro-feature-mapsmarker-api\">MapsMarker API and MMPAPI class access</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/pro-feature-whitelabel\">whitelabel backend admin pages</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/pro-feature-advanced-permissions\">advanced permission settings</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v1.2.1p\">improved performance for layer maps with a huge number of markers (parsing of GeoJSON is up to 3 times faster)</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v1.6p\">improved performance for layer maps by asynchronous loading of markers via GeoJSON</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v1.5.7p\">support for dynamic switching between simplified and advanced editor (no more reloads needed)</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v1.5.7p\">support for filtering of marker icons on backend (based on filename)</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v1.5.7p\">support for changing marker IDs and layer IDs from the tools page</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v1.5.7p\">support for bulk updates of marker maps on the tools page for selected layers only</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v1.5.8p\">option to add markernames to popups automatically</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v1.5.8p\">map moves back to initial position after popup is closed</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v1.6p\">option to disable loading of Google Maps API for higher performance if alternative basemaps are used only</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v1.6p\">map parameters can be overwritten within shortcodes (e.g. [mapsmarker marker=\"1\" height=\"100\"])</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v1.8p\">tool for monitoring \"active shortcodes for already deleted maps\"</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v1.8p\">layer maps: center map on markers and open popups by clicking on list of marker entries</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v1.3p\">support for shortcodes in popup texts</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v1.5p\">support for setting global maximum zoom level to 21 (tiles from basemaps with lower native zoom levels will be upscaled automatically)</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v1.5.1p\">duplicate markers</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v1.9.2p\">improved accessibility/screen reader support by using proper alt texts</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v1.9.3p\">support for duplicating layer maps (without assigned markers)</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v1.9.3p\">bulk actions for layers (duplicate, delete layer only, delete &amp; re-assign markers)</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Parsing of shortcodes in popuptexts"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v2.5p\">support for custom Mapbox basemaps</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v2.5p\">optimized editing workflow - no more reloads needed due to AJAX support</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v2.6p\">support for URL hashes for specific map views</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v2.6p\">highlight a marker on a layer map by opening its popup via shortcode attribute [mapsmarker layer=\"1\" highlightmarker=\"2\"] or by adding ?highlightmarker=2 to the URL where the map is embedded</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v2.6p\">XML sitemaps integration: improved local SEO value by automatically adding links to KML maps to your XML sitemaps (if plugin \"Google XML Sitemaps\" is active)</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v2.6p\">support for sorting list of markers below layer maps by distance from layer center</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/v2.6p\">improved backend usability by listing all contents (posts, pages, CPTs, widgets) where each shortcode is used</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>frequent updates</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>dedicated and priority support</strong> from the plugin author"
+msgstr ""
+
+#. Found in description list item.
+msgid "non-expiring license keys"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://www.mapsmarker.com/affiliates/\">Affiliate program</a> - <a href=\"https://www.mapsmarker.com/reseller\">Reseller program</a> - <a href=\"https://www.mapsmarker.com/faq/\">FAQ</a> - <a href=\"https://www.mapsmarker.com/docs/\">Docs</a> - <a href=\"https://www.mapsmarker.com/support/\">Support</a> - <a href=\"https://twitter.com/mapsmarker\">Twitter</a> - <a href=\"https://facebook.com/mapsmarker\">Facebook</a> - <a href=\"https://www.mapsmarker.com/+\">Google+</a> - <a href=\"https://translate.mapsmarker.com/projects/lmm\">Translations</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "We are working hard on delivering the best mapping solution available – helping you to share your favorite spots and tracks."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Display locations and directions on your WordPress site. Organize customized icons in tidy layers on a variety of maps and even in augmented reality browsers. Leaflet Maps Marker is your individual Geo-CMS that features highest security standards and a moral code."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "With Leaflet Maps Marker, you can"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This plugin is built by a team with a vision. We follow a moral code and value the plugin’s security, your privacy and the documentation of our work. Read our <a href=\"https://www.mapsmarker.com/our-vision-and-mission-statement/\">mission statement</a> here."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Frontend</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Backend</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"We feature full RTL (right-to-left) language support as well as full support for cyrillic, chinese and other characters with UTF-8. \n"
+"Maps Marker makes it easy to switch between languages. Thanks to over 100 translators around the world, more languages are added regularly. Please feel free to contribute (and earn a license key in return) at <a href=\"https://translate.mapsmarker.com\">https://translate.mapsmarker.com</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Available translations</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "For full credits of each translations please visit <a href=\"https://www.mapsmarker.com/languages\">https://www.mapsmarker.com/languages</a> (credit links had to be removed from readme-file as they were considered as spam by WordPress :-/ )"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you want to compare the free and pro version side by side, please visit <a href=\"https://www.mapsmarker.com/comparison\">https://www.mapsmarker.com/comparison</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Interested? Check out our <a href=\"https://demo.mapsmarker.com\">demo maps</a> (including admin area access) or start a <a href=\"https://www.mapsmarker.com/docs/how-to-install-the-plugin/\">free trial</a> of Maps Marker Pro."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Leaflet Maps Marker also includes a pro upgrader which allows you to start a free 30 day trial easily with a few clicks."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "https://www.mapsmarker.com"
+msgstr ""
+
+#. Found in installation header.
+msgid "The Famous 3-Minute Installation"
+msgstr ""
+
+#. Found in installation header.
+msgid "Detailed Installation Instructions"
+msgstr ""
+
+#. Found in installation header.
+msgid "Detailed Installation Instructions (via FTP)"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Login on your WordPress site with your user account (needs to have admin rights!)"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Select \"Add New\" from the \"Plugins\" menu"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Search for <strong>Leaflet Maps Marker</strong>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click on \"Install now\" below the entry \"Leaflet Maps Marker (Google Maps, OpenStreetMap, Bing Maps)\""
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click on \"OK\" on the popup \"Are you sure you want to install this plugin?\""
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click \"Activate Plugin\""
+msgstr ""
+
+#. Found in installation list item.
+msgid "Navigate to <a href=\"https://wordpress.org/plugins/leaflet-maps-marker/\">https://wordpress.org/plugins/leaflet-maps-marker/</a>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click on red button \"Download Version X.X\" and download the plugin as ZIP-file"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Select \"Upload\" from the \"Install Plugins\"-submenu"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click on the button and select the previously downloaded ZIP-file"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click \"Install now\""
+msgstr ""
+
+#. Found in installation list item.
+msgid "unzip and upload the leaflet-maps-marker folder to the <code>/wp-content/plugins/</code> directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin \"Leaflet Maps Marker\" through the \"Plugins\" menu in WordPress"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Done. You can create your first marker map."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid ""
+"After installation you will also find a 'Leaflet Maps Marker' menu in your WordPress admin panel and in WordPress Admin Bar.\n"
+"For basic usage and tutorials, you can also have a look at <a href=\"https://www.mapsmarker.com/docs\" title=\"Docs\">https://www.mapsmarker.com/docs</a>."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "If you do not want to use the built-in plugin installation procedure from WordPress, you can also install the plugin manually:"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<a href=\"https://www.mapsmarker.com/v3.10.3\">blog post with details about v3.10.3</a>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<a href=\"https://www.mapsmarker.com/changelog\">changelog for all versions</a>"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<a href=\"https://www.mapsmarker.com/faq/\">FAQ</a>"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<a href=\"https://www.mapsmarker.com/docs/\">Docs</a>"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<a href=\"http://wordpress.org/support/plugin/leaflet-maps-marker\">Wordpress Support Forum</a> (free community support)"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<a href=\"https://www.mapsmarker.com/install\">Upgrade to Pro</a> (paid developer support)"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Do you have questions or issues with Leaflet Maps Marker? Please use the following support channels appropriately.\n"
+"One personal request: before you post a new support ticket in the <a href=\"http://wordpress.org/support/plugin/leaflet-maps-marker\">Wordpress Support Forum</a>, please follow the instructions from <a href=\"https://www.mapsmarker.com/readme-first\">https://www.mapsmarker.com/readme-first</a> which give you a guideline on how to deal with the most common issues."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<a href=\"http://mapsmarker.com/support/\">More info on support</a>"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Other Notes"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Licence"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Licenses for used libraries, services and images"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Special thanks to"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Trademark and copyright"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Leaflet - Copyright (c) 2010-2015, CloudMade, Vladimir Agafonkin <a href=\"http://www.leafletjs.com\">http://www.leafletjs.com</a>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "OpenStreetMap - The Free Wiki World Map: <a href=\"http://wiki.openstreetmap.org/wiki/OpenStreetMap_License\">OpenStreetMap License</a>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Map Icons Collection by Nicolas Mollet - <a href=\"https://mapicons.mapsmarker.com\">https://mapicons.mapsmarker.com</a>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Datasource OGD Vienna maps: Stadt Wien, Creative Commons Attribution (by) <a href=\"http://data.wien.gv.at\">http://data.wien.gv.at</a>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Jquery TimePicker, by Trent Richardson, <a href=\"http://trentrichardson.com/examples/timepicker/\">http://trentrichardson.com/examples/timepicker/</a>, licence: GPL"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Adress autocompletion powered by <a href=\"https://developers.google.com/places/documentation/autocomplete\">Google Places API</a>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Map center icon <a href=\"http://glyphish.com/\">Joseph Wain</a> - Creative Commons Attribution (by)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Plus-, json-, layer-, language- &amp; csv-export icon by icon by <a href=\"http://www.pinvoke.com/\">Yusuke Kamiyamane</a> - Creative Commons Attribution (by)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Question Mark icon by <a href=\"http://www.randomjabber.com/\">RandomJabber</a>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Home icon by <a href=\"http://prothemedesign.com/\"> Pro Theme Design</a> - Creative Commons Attribution (by)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Images for changelog from <a href=\"http://www.mozilla.org/en-US/firefox/11.0/releasenotes/\">Firefox release notes</a>, licence: Creative Commons Attribution ShareAlike (CC BY-SA 3.0)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Home-Icon from <a href=\"http://prothemedesign.com\">Pro Theme Design</a>, licence: Creative Commons Attribution (by)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Editor-Switch-Icon by AMAZIGH Aneglus, license: GNU/GPL"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Submenu icons from <a href=\"http://bijou.im\">Bijou</a> and <a href=\"http://somerandomdude.com/work/iconic/\">Iconic</a> icon sets (GPL)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "PHPExcel for import/export <a href=\"http://phpexcel.codeplex.com/\">http://phpexcel.codeplex.com/</a> (LGPL)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Sindre Wimberger (<a href=\"http://www.sindre.at\">http://www.sindre.at</a>) for help with bugfixing &amp; geo-consulting"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Julia Loew (<a href=\"http://www.weiderand.net\">http://www.weiderand.net</a>) for logo and corporate design"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Wordpress-Settings-API-Class by Aliso the geek (<a href=\"http://alisothegeek.com/2011/01/wordpress-settings-api-tutorial-1/\">http://alisothegeek.com/2011/01/wordpress-settings-api-tutorial-1/</a>)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<a href=\"http://www.nanodesu.ru\">Hind</a> who originally release a basic Leaflet plugin (not available anymore) which I used partly as a basis for Leaflet Maps Marker plugin"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<a href=\"http://psha.org.ru/b/leaflet-plugins.html\">shramov</a> for bing and google maps plugins for leaflet"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid ""
+"Good news, this plugin is free for everyone! Since it's released under the GPL, you can use it free of charge on your personal or commercial blog. But if you enjoy this plugin, please consider upgrading to the pro version.\n"
+"This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License included with this plugin for more details."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid ""
+"MapsMarker &reg;\n"
+"Copyright 2011-2015, MapsMarker.com e.U., All Rights Reserved"
+msgstr ""

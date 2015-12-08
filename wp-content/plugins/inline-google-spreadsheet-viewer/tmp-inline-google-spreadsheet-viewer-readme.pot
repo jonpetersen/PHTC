@@ -1,0 +1,1270 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Short description.
+msgid "Embeds public Google Spreadsheets, Apps Scripts, or CSV files in WordPress posts or pages as HTML tables or interactive charts, and more."
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>Use a Google Spreadsheet or create a new one for your WordPress post or page. Make sure the Spreadsheet is \"Public on the web.\" Learn more about <a href=\"https://support.google.com/docs/answer/2494886\">Google Docs sharing settings</a>. If your spreadsheet was created a while ago and still uses an \"old\" style Google Spreadsheet, <a href=\"https://support.google.com/docs/answer/183965\">use the \"Publish as a webpage\" option</a>. Make a note of the URL of your Google Spreadsheet's editing page.</p>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>On-screen help gives you instructions for using the plugin where you need it. Paste the address of your Google Spreadsheet into the <code>key</code> parameter of the plugin's shortcode (<code>[gdoc key=\"YOUR_SPREADSHEET_URL_HERE\"]</code>), then save your post.</p>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>By default, Inline Google Spreadsheet Viewer produces a feature-rich HTML table on your site. Sort columns, filter rows, browse long tables by page number, show and hide individual columns, or export the table data in three different formats (CSV, Excel, and PDF). The plugin's ouput includes plenty of CSS and JavaScript hooks for unlimited customizability. Read <a href=\"https://wordpress.org/plugins/inline-google-spreadsheet-viewer/faq/\">the FAQ</a> for coding details.</p>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>QuickTags integration lets you embed a spreadsheet with point-and-click ease.</p>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>Transform your spreadsheet's data into an interactive graph or chart by adding a single shortcode attribute. 11 chart types are supported, including <code>Area</code>, <code>Bar</code>, <code>Column</code>, <code>Pie</code>, <code>Line</code>, <code>Scatter</code> and more. Every chart can be customized with user-defined colors, opacity, and even 3D effects. There are over 50 configuration options to choose from. See <a href=\"https://wordpress.org/plugins/inline-google-spreadsheet-viewer/faq/\">the FAQ</a> for a detailed list.</p>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>Use all the features of the <a href=\"https://developers.google.com/chart/interactive/docs/querylanguage\">Google Query Language</a> to pinpoint the exact data you want. Over 50 additional configuration options let you customize the exact way your graphs, charts, and tables look.</p>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>This screenshot shows an example of what the previous screenshot might output with a given spreadsheet that contains data for the Aliens, Ninjas, Pirates, and Robots teams, and their player's respective points.</p>"
+msgstr ""
+
+#. Found in description header.
+msgid "Quick start"
+msgstr ""
+
+#. Found in description header.
+msgid "User guide"
+msgstr ""
+
+#. Found in description list item.
+msgid "Update your blog post or page whenever a Google Spreadsheet or CSV file changes."
+msgstr ""
+
+#. Found in description list item.
+msgid "Create beautiful interactive graphs and charts from your Google Spreadsheet or CSV files with ease."
+msgstr ""
+
+#. Found in description list item.
+msgid "Customize the table's or chart's look and feel using a powerful and flexible query language and a plethora of configuration options."
+msgstr ""
+
+#. Found in description list item.
+msgid "Use data from a variety of different sources: Google Spreadsheets, Google Apps Scripts, CSV files, your WordPress database, or a remote MySQL database."
+msgstr ""
+
+#. Found in description list item.
+msgid "Embed almost any online document to view without leaving your blog."
+msgstr ""
+
+#. Found in description list item.
+msgid "<code>Area</code> charts"
+msgstr ""
+
+#. Found in description list item.
+msgid "<code>Bar</code> charts"
+msgstr ""
+
+#. Found in description list item.
+msgid "<code>Bubble</code> charts"
+msgstr ""
+
+#. Found in description list item.
+msgid "<code>Candlestick</code> charts"
+msgstr ""
+
+#. Found in description list item.
+msgid "<code>Column</code> charts"
+msgstr ""
+
+#. Found in description list item.
+msgid "<code>Combo</code> charts"
+msgstr ""
+
+#. Found in description list item.
+msgid "<code>Gauge</code> charts"
+msgstr ""
+
+#. Found in description list item.
+msgid "<code>Histogram</code> charts"
+msgstr ""
+
+#. Found in description list item.
+msgid "<code>Line</code> charts"
+msgstr ""
+
+#. Found in description list item.
+msgid "<code>Pie</code> charts"
+msgstr ""
+
+#. Found in description list item.
+msgid "<code>Scatter</code> charts"
+msgstr ""
+
+#. Found in description list item.
+msgid "<code>Stepped</code> area charts"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Easily turn data stored in a <a href=\"https://sheets.google.com/\">Google Spreadsheet</a>, <a href=\"https://en.wikipedia.org/wiki/Comma-separated_values\">CSV file</a>, <a href=\"https://mysql.com/\">MySQL database</a>, or the output of a <a href=\"https://www.google.com/script/start/\">Google Apps Script</a> into a beautiful interactive chart or graph, a sortable and searchable table, or both. Embed live previews of PDF, XLS, DOC, and other file formats supported by the <a href=\"https://docs.google.com/viewer\">Google Docs Viewer</a>. A built-in cache provides extra speed."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<em>Donations for this plugin make up a chunk of my income. If you continue to enjoy this plugin, please consider <a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=TJLPJYXHSRBEE&amp;lc=US&amp;item_name=Inline%20Google%20Spreadsheet%20Viewer&amp;item_number=Inline%20Google%20Spreadsheet%20Viewer&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted\">making a donation</a>. :) Thank you for your support!</em>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Paste the URL of your public <a href=\"https://support.google.com/docs/answer/37579?hl=en\">Google Spreadsheet</a> or <a href=\"https://developers.google.com/apps-script/guides/web\">Google Apps Script Web App</a> on its own line in your WordPress post or page, then save your post. That's it. :) Your data will appear in a sorted, searchable HTML table. Web App output will be displayed using the HTML defined by the Web App. See the <a href=\"https://wordpress.org/plugins/inline-google-spreadsheet-viewer/screenshots/\">screenshots</a> for an example."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If using a Google Spreadsheet, the spreadsheet must be shared using either the \"Public on the web\" or \"Anyone with the link\" options <a href=\"https://support.google.com/drive/?p=visibility_options&amp;hl=en_US\">(learn how to share your spreadsheet)</a>. Currently, private Google Spreadsheets or Spreadsheets shared with \"Specific people\" are not supported. Web Apps must be deployed with the \"Anyone, even anonymous\" <a href=\"https://developers.google.com/apps-script/guides/web#permissions\">access permissions</a>. CSV files must be available to the public, without the need to log in to the site where they're hosted."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can transform your spreadsheet into an interactive chart or graph, embed documents other than spreadsheets, and customize the HTML of your table using a <code>[gdoc key=\"\"]</code> <a href=\"https://codex.wordpress.org/Shortcode\">WordPress shortcode</a>. The only required parameter is <code>key</code>, which specifies the document you'd like to retrieve. All additional attributes are optional."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Google Spreadsheets</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "After saving the appropriate Sharing setting, copy the URL you use to view the Google Spreadsheet from your browser's address bar into the shortcode. For example, to display the spreadsheet at <code>https://docs.google.com/spreadsheets/d/ABCDEFG/edit#gid=123456</code>, use the following shortcode in your WordPress post or page:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If your spreadsheet uses the \"old\" Google Spreadsheets, you need to <a href=\"https://docs.google.com/support/bin/answer.py?hl=en&amp;answer=47134\">ensure that your spreadsheet is \"Published to the Web\"</a> and you need to copy only the \"key\" out of the URL. For instance, if the URL of your old Google Spreadsheet is <code>https://docs.google.com/spreadsheets/pub?key=ABCDEFG</code>, then your shortcode should look like this:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Use the <code>gid</code> attribute to fetch data from a worksheet other than the first one (the one on the far left). For example, to display a worksheet published at <code>https://spreadsheets.google.com/pub?key=ABCDEFG&amp;gid=4</code>, use the following shortcode in your WordPress post or page:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>CSV files</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Using a CSV file works the same way as Google Spreadsheets. Set the <code>key</code> to the URL of the file to display it as an HTML table:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>HTML Tables</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Customizing the HTML tables that are produced is easy. For instance, to supply the table's <code>title</code>, <code>summary</code>, <code>&lt;caption&gt;</code>, and a customized <code>class</code> value, you can do the following:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The above shortcode will produce HTML that looks something like the following:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "By default, all tables are progressively enhanced with jQuery <a href=\"https://datatables.net/\">DataTables</a> to provide sorting, searching, and pagination functions on the table display itself. If you'd like a specific table not to include this functionality, use the <code>no-datatables</code> <code>class</code> in your shortcode. For instance:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Web addresses and email addresses in your data are turned into links. If this causes problems, you can disable this behavior by specifying <code>no</code> to the <code>linkify</code> attribute in your shortcode. For instance:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Each table can be customized per-table, using shortcode attributes, or globally for your entire site, using the plugin's settings screen. You can freeze the table header, columns, control pagination length, and more. Refer to the <a href=\"https://wordpress.org/plugins/inline-google-spreadsheet-viewer/other_notes/\">Other Notes</a> section for a full listing of supported customization attributes."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Charts</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Data from Google Spreadsheets or CSV files can be graphed in interactive charts. To visualize your data as a chart, add the <code>chart</code> attribute to your shortcode and supply a supported chart type. You can make:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "For example, if you have data for a sports league that records the goals each team has scored (where the first column is the team name and the second column is their total goals), you can create a bar chart, with an optional title, from that data using a shortcode like this:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can customize your chart with a number of options, such as colors. For example, to create a 3D red and green pie chart whose slices are labelled with your data's values:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Pre-processing data with Google Queries</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can pre-process your Google Spreadsheets or CSV files before retrieving data from them by passing a <a href=\"https://developers.google.com/chart/interactive/docs/querylanguage#Language_Syntax\">Google Charts API Query Language</a> query to the shortcode's <code>query</code> attribute. This lets you interact with the data in your Google Spreadsheet or CSV file as though it were a relational database table. For instance, if you wish to display the team that scored the most goals on your website, you might use a shortcode like this to query your Google Spreadsheet and display the highest-scoring team, where the team name is the first column (column <code>A</code>) and that team's score is the second column (column <code>B</code>):"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Queries are also useful if your spreadsheet contains complex data from which many different charts can be created, allowing you to select only the parts of your spreadsheet that you'd like to use to compose the interactive chart."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Using a MySQL Database</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "After an administrator enables the SQL queries option in the plugin's settings screen, privileged users can also retrieve data from the WordPress database by supplying the keyword <code>wordpress</code> to the <code>key</code> attribute of your shortcode along with a valid <a href=\"https://dev.mysql.com/doc/refman/5.5/en/select.html\">MySQL <code>SELECT</code> statement</a>. This can be useful for displaying information that other plugins save in your website's database or that WordPress itself maintains for you."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "For example, to show a table of user registration dates from the current blog:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Remote MySQL databases are also accessible by supplying a MySQL connection URL with valid access credentials. For example, to show the prices from an <code>inventory</code> database hosted by a MySQL server at <code>server.example.com</code> by logging in as <code>user</code> with the password <code>password</code> and querying for items that are in stock:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Using Google Apps Script Web Apps</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can also supply the URL endpoint of any Google Apps Script Web App to retrieve the output from that app and insert it directly into your WordPress post or page. This works exactly the same way as Google Spreadsheets do, so you can use this feature to display arbitrary data on your WordPress site."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "For example, suppose you maintain a GMail account for fans of your podcast to write you questions, and you want to automatically display some information from these emails on your website. Using <a href=\"https://support.google.com/mail/answer/6579?hl=en\">GMail filters</a> and <a href=\"https://support.google.com/mail/answer/118708?hl=en\">labels</a>, you can access these emails through a <a href=\"https://developers.google.com/apps-script/overview\">Google Apps Script</a> that reads your email, counts the number of mail messages in your different labels, and returns that count as an HTML list fragment. <a href=\"https://developers.google.com/apps-script/guides/web#deploying_a_script_as_a_web_app\">Deploy that Google Apps Script as a Web App</a> and supply its URL to the <code>gdoc</code> shortcode:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Now your website is automatically updated whenever you receive a new question in email from your listeners."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Embedding other documents</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can also supply the URL of any file online to load a preview of that file on your blog. To do so, supply the file's URL as your <code>key</code>:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "To tweak the way your preview looks, you can use the <code>width</code>, <code>height</code>, or <code>style</code> attributes:"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the unzipped <code>inline-google-spreadsheet-viewer</code> folder to the <code>/wp-content/plugins/</code> directory."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Use the <code>[gdoc key=\"ABCDEFG\"]</code> shortcode wherever you'd like to insert the Google Spreadsheet."
+msgstr ""
+
+#. Found in change log header.
+msgid "Version 0.9.17"
+msgstr ""
+
+#. Found in change log header.
+msgid "Version 0.9.16"
+msgstr ""
+
+#. Found in change log header.
+msgid "Version 0.9.15"
+msgstr ""
+
+#. Found in change log header.
+msgid "Version 0.9.14"
+msgstr ""
+
+#. Found in change log header.
+msgid "Version 0.9.13"
+msgstr ""
+
+#. Found in change log header.
+msgid "Version 0.9.12"
+msgstr ""
+
+#. Found in change log header.
+msgid "Version 0.9.11"
+msgstr ""
+
+#. Found in change log list item, changelog list item.
+msgid "Add <code>gdoc_enqueued_front_end_scripts</code> and <code>gdoc_enqueued_front_end_styles</code> filters to allow performance tuning by removing unused scripts and stylesheets."
+msgstr ""
+
+#. Found in change log list item, changelog list item.
+msgid "Update DataTables libraries."
+msgstr ""
+
+#. Found in change log list item, changelog list item.
+msgid "<a href=\"https://wordpress.org/support/topic/no-datatables-setting-first-column-and-first-row-as-headings\">Feature</a>: Add support for customizable column headers using new <code>header_cols</code> attribute."
+msgstr ""
+
+#. Found in change log list item, changelog list item.
+msgid "<a href=\"https://wordpress.org/support/topic/vaxes\">Feature</a>: Add support for Google Charts' <code>vAxes</code> configuration option (use the <code>chart_v_axes</code> attribute in your shortcode)."
+msgstr ""
+
+#. Found in change log list item, changelog list item.
+msgid "<a href=\"https://wordpress.org/support/topic/pages-126\">Usability</a>: Show built-in help tabs on all post types, not just the Post type."
+msgstr ""
+
+#. Found in change log list item, changelog list item.
+msgid "Bugfix: Fix bug wherein a lack of a <code>buttons</code> member in the DataTables defaults object caused a JavaScript error."
+msgstr ""
+
+#. Found in change log list item, changelog list item.
+msgid "Usability: The plugin's settings screen now reports which user roles are SQL-capable."
+msgstr ""
+
+#. Found in change log list item, changelog list item.
+msgid "Update DataTables library to version 1.10.9."
+msgstr ""
+
+#. Found in change log list item, changelog list item.
+msgid "DataTables extensions have been updated to their current versions."
+msgstr ""
+
+#. Found in change log list item, changelog list item.
+msgid "<strong>You may need to visit the plugin's settings screen and rewrite your DataTables defaults object value for the new extension to work.</strong> If you are not sure what defaults you want, simply leave that field blank and press <code>Save Changes</code>."
+msgstr ""
+
+#. Found in change log list item, changelog list item.
+msgid "Only modern (HTML5 capable) Web browsers are able to use the buttons, as they no longer use Flash. While a <a href=\"https://datatables.net/extensions/buttons/examples/flash/index.html\">Flash-based fallback is available</a> to support legacy (IE9 and earlier) browsers, it no longer ships with this plugin."
+msgstr ""
+
+#. Found in change log list item, changelog list item.
+msgid "Feature: <code>Gauge</code> charts are now fully supported."
+msgstr ""
+
+#. Found in change log paragraph, changelog paragraph.
+msgid "Version history has been truncated due to <a href=\"https://wordpress.org/support/topic/wordpress-plugin-repository-readmetxt-length-limit?replies=1\">WordPress.org plugin repository <code>readme.txt</code> file length limitations</a>. For <a href=\"https://plugins.trac.wordpress.org/browser/inline-google-spreadsheet-viewer/tags/0.9.9.1/readme.txt#L272\">historical change log information</a>, please refer to the plugin source code repository."
+msgstr ""
+
+#. Found in faq header.
+msgid "Will my website be updated when my Google Spreadsheets change?"
+msgstr ""
+
+#. Found in faq header.
+msgid "The default style is ugly. Can I change it?"
+msgstr ""
+
+#. Found in faq header.
+msgid "A table appears, but it's not my spreadsheet's data! And it looks weird!"
+msgstr ""
+
+#. Found in faq header.
+msgid "A Google Login page appears where my Google Apps Script output should be."
+msgstr ""
+
+#. Found in faq header.
+msgid "Nothing appears where my chart should be."
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I remove certain columns from appearing on my webpage?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I change the default settings, like can I turn paging off? Can I change the page length? Can I change the sort order?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I customize my chart?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Why am I getting errors when I try to use the `query` attribute?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I remove unneeded stylesheets or JavaScripts that this plugin adds?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes. Changes you make to your Google Spreadsheets will be shown on your website within a few minutes."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "To improve your website's performance, Inline Google Spreadsheet Viewer automatically caches spreadsheets for 10 minutes. If you are making many changes quickly and/or you don't want to wait for the cache to expire on its own, you can add the <code>use_cache=\"no\"</code> attribute to your shortcode to disable the caching mechanism:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "After you save and reload the page, you should see near-instant updates. Note that disabling the plugin's cache can result in decreased performance. Disabling the cache is recommended only for relatively small spreadsheets (less than 100 rows or so) or for debugging purposes."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, if you're able to change your theme's style sheet. The plugin renders HTML with plenty of <a href=\"http://en.wikipedia.org/wiki/Cascading_Style_Sheets\">CSS</a> hooks. Use the <code>igsv-table</code> class from your style sheets to target the plugin's <code>&lt;table&gt;</code> element."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Additionally, each row (<code>&lt;tr&gt;</code>) and cell (<code>&lt;td&gt;</code>) is assigned a specific <code>class</code> attribute value. The first <code>&lt;tr&gt;</code> element is assigned the <code>row-1</code> class, the second is assigned <code>row-2</code>, and the last <code>row-N</code> where <code>N</code> is the number of rows in the rendered table. Similarly, each cell is assigned a class based on its columnar position; the first cell in a row is assigned the <code>col-1</code> class, the second <code>col-2</code>, and so on:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Finally, both rows and cells (based on columns) are assigned an additional class of either <code>odd</code> or <code>even</code>, allowing for easy zebra-striping in <a href=\"http://www.w3.org/TR/css3-selectors/\">CSS3</a> non-conformant browsers."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you're still using the \"old\" Google Spreadsheets, you should triple-check that you've published your spreadsheet. Google provides instructions for doing this. Be sure to follow steps 1 and 2 in <a href=\"http://docs.google.com/support/bin/answer.py?hl=en&amp;answer=47134\">Google Spreadsheets Help: Publishing to the Web</a>. If you're using the \"new\" Google Spreadsheets, be sure you've selected either the <a href=\"https://support.google.com/drive/answer/2494886?p=visibility_options\">\"Public on the web\" or \"Anyone with the link\" Sharing options</a> for your Google Spreadsheet."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If a Google Login page appears instead of the output of your GAS Web App, double check that you've deployed your Web App with the \"Anyone, even anonymous\" access permission. <a href=\"https://developers.google.com/apps-script/guides/web#permissions\">Learn more about GAS Web App permissions</a>."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The best way to determine what's wrong with a chart that isn't displaying properly is to try displaying the chart's data as a simple HTML table (by removing the <code>chart</code> attribute from your shortcode), and seeing what the tabular data source looks like."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Charts most likely fail to display because of a mismatch between the chart you are using and the format of your spreadsheet."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Each type of chart expects to retrieve data with a certain number of rows and/or columns. If your Google Spreadsheet is not already designed to create data for a chart, you might be able to use the <code>query</code> attribute to select only the rows and/or columns that the <code>chart</code> you're using expects. Otherwise, consider creating a new sheet with the proper formatting and setting it as the <code>key</code> in your shortcode."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "To learn more about the correct spreadsheet formats for each chart type, please refer to <a href=\"https://google-developers.appspot.com/chart/interactive/docs/gallery\">Google's Chart Gallery documentation</a> for the type of chart you are using."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you're using the \"new\" Google Spreadsheets, you can strip out columns by <code>select</code>ing only those columns you wish to retrieve by passing a <a href=\"https://developers.google.com/chart/interactive/docs/querylanguage#Language_Syntax\">Google Charts API Query Language</a> query to the shortcode's <code>query</code> attribute. For example, to retrieve and display only the first, second, and third columns in a spreadsheet, use a shortcode like this:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Alternatively, you can <a href=\"http://maymay.net/blog/projects/inline-google-spreadsheet-viewer/comment-page-2/#comment-294582\">hide columns using CSS</a> with code such as, <code>.col-4 { display: none; }</code>, for example."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "All of <a href=\"https://datatables.net/reference/option/\">these DataTables options</a> are accessible through shortcode attributes. The shortcode attribute is an underscore-separated version of the DataTables's CamelCase'ed option name, prefixed with <code>datatables_</code>. For instance, to turn off paging, you need to set <a href=\"https://datatables.net/reference/option/paging\">the DataTables <code>paging</code> option</a> to <code>false</code>, so you would use a shortcode like this:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Similarly, to change how many rows appear per page, you need to use <a href=\"https://datatables.net/reference/option/pageLength\">the DataTables <code>pageLength</code> option</a>, setting it to a number. Its default is <code>10</code>, so if you wanted to show 15 rows per page, you would use a shortcode like this:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Some DataTables options need to be given JavaScript array literals, such as in the case of <a href=\"https://datatables.net/reference/option/order\">the DataTables <code>order</code> option</a>, which controls the initial sort order for a table. However, using square brackets (<code>[</code> and <code>]</code>) inside a shortcode confuses the WordPress parser, so these characters must be URL-escaped (into <code>%5B</code> and <code>%5D</code>, respectively). Suppose you want your table to be sorted by the second column in descending order (instead of the first column in ascending order, which is the default). You need to supply a 2-dimensional array such as <code>[[ 1, \"desc\" ]]</code> to DataTable's <code>order</code> option (column counting begins at 0). In a shortcode, with the square brackets URL-escaped, this becomes:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Note that when a JSON string literal is supplied in a shortcode attribute (<code>\"desc\"</code>), it must be double-quoted, so the shortcode attribute value itself must be single-quoted."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Alternatively, if you're able to add JavaScript to your theme, you can do all of these things, and more because any and all DataTables-enhanced tables can be modified by using the DataTables API."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "For instance, to disable paging, add a JavaScript to your theme that looks like this:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Or, to have your DataTables-enhanced table automatically sort itself by the second column in descending order:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "(Replace <code>MY_TABLE_KEY</code> with the Google Spreadsheet document ID of your spreadsheet, of course.)"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Please refer to the <a href=\"https://datatables.net/reference/api\">DataTables API reference manual</a> for more information about customizing DataTables-enhanced tables."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Another option for sorting your table, for example, is to use the <code>query</code> attribute and pass along an appropriate <a href=\"https://developers.google.com/chart/interactive/docs/querylanguage#Order_By\">Google Charts API Query Language query that includes an <code>order by</code> clause</a>. In this case, however, you may want to disable DataTables's client-side sorting, as the data will be sorted in the HTML source."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Using specific shortcode attributes, you can choose from a huge number of configurable options to customize the look and feel of your chart. The specific shortcode attributes available to you depend on the type of chart you chose. Refer to the <a href=\"https://developers.google.com/chart/interactive/docs/gallery\">Google Chart API documentation</a> to learn which configuration options are available for which type of charts."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Each configuration option is accessible through a shortcode of a similar name. For instance, the <code>colors</code> configuration option is accessible to you through the <code>chart_colors</code> attribute. It accepts a list of colors, which you supply to the shortcode in a similar way as you might provide a <code>class</code> value:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "To create a 3D chart, specify <code>chart_dimensions=\"3\"</code>."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "With a few exceptions, the name of a shortcode attribute is always an underscore-separated translation of the camelCase name of the option in the Google Chart API. For instance, to disable chart interactivity by setting the chart's <code>enableInteractivity</code> option to <code>false</code>, use a shortcode like:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Some configuration options call for an <code>Object</code> value. For these, the shortcode attribute value should be a <a href=\"http://JSON.org/\">JSON</a> object. For instance, to use the different properties of the <code>backgroundColor</code> option:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Note that when a JSON object is used as a value, the shortcode attribute's value must be single-quoted."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "See <a href=\"https://wordpress.org/plugins/inline-google-spreadsheet-viewer/other_notes/\">Other Notes</a> for a complete list of attribute for configurable chart options."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If your <code>query</code> includes an angle bracket, such as a less than (<code>&lt;</code>) or a greater than (<code>&gt;</code>) sign, <a href=\"https://core.trac.wordpress.org/ticket/28564\">WordPress will assume you are trying to write HTML</a> and strip everything except the first word of your query, resulting in a syntax error. Instead, use the URL-encoded equivalents of these characters (<code>%3C</code> and <code>%3E</code>, for <code>&lt;</code> and <code>&gt;</code>, respectively), which WordPress will pass to the plugin unmolested and which the plugin is specifically aware of how to handle correctly."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Use the <code>gdoc_enqueued_front_end_styles</code> or <code>gdoc_enqueued_front_end_scripts</code> filter hooks. For instance, to prevent the plugin from enqueueing the JavaScript file for the Google Charts, use code like the following in your theme's <code>functions.php</code> file:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "See the <a href=\"https://wordpress.org/plugins/inline-google-spreadsheet-viewer/other_notes/\">Other Notes</a> page for a full list of registered script and stylesheet handles this plugin uses."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Other notes"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Shortcode attribute documentation"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Chart customization options"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "DataTables customization options"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Plugin hooks"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Filters"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Registered script and stylesheet handles"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<strong>required</strong> Every <code>gdoc</code> shortcode must have one and only one <code>key</code> attribute. (All other attributes are optional.)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "The fully-qualified URL of a Google Spreadsheet that has been publicly shared, like <code>[gdoc key=\"https://docs.google.com/spreadsheets/d/ABCDEFG/htmlview#gid=123456\"]</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "The document ID of an old-style Google Spreadsheet that has been \"Published to the web,\" like <code>[gdoc key=\"ABCDEFG\"]</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "The fully-qualified URL of a Google Apps Script Web App, like <code>[gdoc key=\"https://script.google.com/macros/s/ABCDEFG/exec\"]</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "The fully-qualified URL of a CSV file or a web service endpoint that produces CSV data, like <code>[gdoc key=\"http://viewportsizes.com/devices.csv\"]</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "The fully-qualified URL of a document on the Web. PDF, DOC, XLS, and other file formats supported by the <a href=\"https://docs.google.com/viewer\">Google Docs Viewer</a> will be rendered using the Viewer, like <code>[gdoc key=\"http://example.com/my_final_paper.pdf\"]</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "The keyword <code>wordpress</code> to make a SQL query against the current blog's database, like [gdoc key=\"wordpress\" query=\"SELECT * FROM custom_table\"]`"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "A MySQL connection URL to make a SQL query against an arbitrary MySQL server, like <code>[gdoc key=\"mysql://user:password@server.example.com:12345/database\" query=\"SELECT * FROM custom_table\"]</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>Area</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>Bar</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>Bubble</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>Candlestick</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>Column</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>Combo</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>Gauge</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>Histogram</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>Line</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>Pie</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>Scatter</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>Stepped</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>no-datatables</code> deactivates all DataTables features."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>no-responsive</code> deactivates only DataTables' Responsive features."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>FixedHeader</code> or its synonym, <code>FixedHeader-top</code> freezes the table header (its <code>&lt;thead&gt;</code> content) to the top of the window while scrolling vertically."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>FixedHeader-bottom</code> freezes the table footer (its <code>&lt;tfoot&gt;</code> content) to the bottom of the window while scrolling vertically."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>FixedHeader-left</code> or <code>FixedHeader-right</code> freezes the left- or right-most column of the table while scrolling horizontally. (You will also need to set <code>datatables_scroll_x=\"true\"</code> in your shortcode to enable horizontal scrolling.)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>FixedColumns-left-N</code> or <code>FixedColumns-right-N</code> freezes the left- or right-most <code>N</code> columns in the table, respectively."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>expire_in</code> - How long to cache responses from Google for, in seconds. Set to <code>0</code> to cache forever. (Default: <code>600</code>, which is ten minutes.)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>gid</code> - For old-style Google Spreadsheets, the ID of a worksheet in a Google Spreadsheet to load, other than the first one, like <code>[gdoc key=\"ABCDEFG\" gid=\"123\"]</code>. (This attribute is deprecated for new Google Sheets.)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>header_cols</code> - A number specifying how many column cells should be written with <code>&lt;th&gt;</code> elements. (Default: <code>0</code>.)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>header_rows</code> - A number specifying how many rows to place in the output's <code>&lt;thead&gt;</code> element. (Default: <code>1</code>.)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>height</code> - Height of the containing HTML element. Tables ignore this, use <code>style</code> instead. (Default: automatically calculated.)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>http_opts</code> - A JSON string representing options to pass to the <a href=\"https://codex.wordpress.org/HTTP_API\">WordPress HTTP API</a>, like <code>[gdoc key=\"ABCDEFG\" http_opts='{\"method\": \"POST\", \"blocking\": false, \"user-agent\": \"My Custom User Agent String\"}']</code>."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>lang</code> - The <a href=\"http://www.iso.org/iso/home/standards/language_codes.htm\">ISO 639</a> language code declaring the human language of the spreadsheet's contents. For instance, use <code>nl-NL</code> to declare that content is in Dutch. (Default: your site's <a href=\"https://codex.wordpress.org/WordPress_in_Your_Language\">global language setting</a>.)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>linkify</code> - Whether or not to automatically turn URLs, email addresses, and so on, into clickable links. Set to <code>no</code> to disable this behavior. (Default: <code>true</code>.)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>query</code> - A <a href=\"https://developers.google.com/chart/interactive/docs/querylanguage#Language_Syntax\">Google Query Language</a> query if the data source is a Google Spreadsheet or CSV file, or a SQL <code>SELECT</code> statement if the data source is a MySQL database. <em>Note:</em> Arrow bracktets (<code>&lt;</code> and <code>&gt;</code>) in queries must be URL-encoded (<code>%3C</code> and <code>%3E</code>, respectively) to avoid confusing the WordPress HTML parser. (Default: none.)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>strip</code> - The number of leading rows to omit from the resulting HTML table. (Default: <code>0</code>.)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>style</code> - An inline CSS rule applied to the containing HTML element. For example, to set a fixed height on a table, use <code>[gdoc key=\"ABCDEFG\" style=\"height: 480px;\"]</code>. (Default: none.)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>summary</code> - A brief description of the information displayed for the <code>summary</code> attribute of the resulting HTML <code>&lt;table&gt;</code>. (Default: <code>Google Spreadsheet</code>.)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>title</code> - An optional title for your data visualization or table. This is usually displayed in Web browsers as a tooltip when a user hovers over the table or is shown as the headline of a chart. (Default: none.)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>use_cache</code> - Whether or not to cache spreadsheet data. Set this to <code>no</code> to disable caching for that shortcode invocation. (Default: <code>true</code>.)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>width</code> - Width of the containing HTML element. Tables ignore this, use <code>style</code> instead. (Default: <code>100%</code>.)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_animation</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_annotations</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_aggregation_target</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_area_opacity</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_axis_titles_position</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_background_color</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_bars</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_bubble</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_candlestick</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_chart_area</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_color_axis</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_colors</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_crosshair</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_curve_type</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_data_opacity</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_dimensions</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_enable_interactivity</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_explorer</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_focus_target</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_font_name</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_font_size</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_force_i_frame</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_green_color</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_green_from</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_green_to</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_h_axes</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_h_axis</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_height</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_interpolate_nulls</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_is_stacked</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_legend</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_line_width</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_major_ticks</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_max</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_min</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_minor_ticks</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_orientation</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_pie_hole</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_pie_residue_slice_color</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_pie_residue_slice_label</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_pie_slice_border_color</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_pie_slice_text</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_pie_slice_text_style</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_pie_start_angle</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_point_shape</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_point_size</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_red_color</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_red_from</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_red_to</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_reverse_categories</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_selection_mode</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_series</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_size_axis</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_slice_visibility_threshold</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_slices</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_theme</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_title_position</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_title_text_style</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_tooltip</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_trendlines</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_v_axes</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_v_axis</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_width</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_yellow_color</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_yellow_from</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>chart_yellow_to</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_auto_width</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_defer_render</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_info</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_j_query_UI</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_length_change</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_ordering</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_paging</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_processing</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_scroll_x</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_scroll_y</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_searching</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_server_side</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_state_save</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_ajax</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_data</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_defer_loading</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_destroy</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_display_start</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_dom</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_length_menu</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_order_cells_top</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_order_classes</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_order</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_order_fixed</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_order_multi</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_page_length</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_paging_type</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_renderer</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_retrieve</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_scroll_collapse</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_search_cols</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_search_delay</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_search</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_state_duration</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_stripe_classes</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_select</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_tab_index</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_column_defs</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_columns</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables_buttons</code> for customizing the <a href=\"https://datatables.net/extensions/buttons/\">DataTables Buttons extension</a>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "The most common use for this filter is to use <a href=\"https://php.net/html-entity-decode\"><code>html_entity_decode()</code></a> to allow the data source to include raw HTML that will be displayed. This is considered a potential security risk and so is not recommended unless you are absolutely sure you need this functionality. In the majority of cases where users assume they need this functionality, it turns out there are other, more preferable alternatives, despite its convenience."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Another related use case for this filter is to allow <a href=\"https://codex.wordpress.org/Shortcode\">WordPress shortcodes</a> that are present in the data source to be evaluated at runtime. See <a href=\"https://wordpress.org/support/topic/using-filter-hooks-1\">this thread</a> for a brief discussion of that use case. However, this can also be problematic and is not recommended unless you are certain the shortcodes being used will not cause issues like invalid and broken markup, since most shortcode functions do not expect to be inside of an HTML <code>&lt;table&gt;</code>."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "This filter runs immediately after HTML conversion is complete, but <em>before</em> that HTML is processed through the <a href=\"https://codex.wordpress.org/Function_Reference/make_clickable\"><code>make_clickable()</code></a> function. This means that the value of the <code>linkify</code> shortcode attribute will affect the ultimate output of the shortcode invocation regardless of your filter function, and also means you should not call <code>make_clickable()</code> yourself."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>gdoc_viewer_html</code> - Same as above, but applied to the <code>&lt;iframe&gt;</code> that loads the <a href=\"https://docs.google.com/viewer\">Google Docs Viewer</a>. Use this filter to, for intance, customize the fallback content in the case that the user's browser does not support <code>&lt;iframe&gt;</code> elements."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>gdoc_webapp_html</code> - Same as above, but applied to the HTTP response body of the <a href=\"https://developers.google.com/apps-script/guides/web\">Google Apps Script Web App</a>. Use this filter to, for intance, customize the content returned by your GAS Web App similarly to how you might filter <code>the_content</code> of a WordPress post. The first argument is the HTTP response body of the request. The second argument is an array of all the attributes and their values passed to the current invocation of the shortcode."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "A common use case for this filter is to query a Google Spreadsheet using dynamically generated content, such as the email address or username of a logged-in user."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>gdoc_enqueued_front_end_styles</code> - An array in the form <code>$handle =&gt; array(...)</code> representing parameters to pass to <a href=\"https://developer.wordpress.org/reference/functions/wp_enqueue_style/\"><code>wp_enqueue_style()</code></a>. This filter lets you <a href=\"https://secure.php.net/unset\"><code>unset()</code></a> stylesheets to prevent the plugin from enqueueing them. Use this to tweak your site's performance by removing any stylesheets you know you will not need."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>gdoc_enqueued_front_end_scripts</code> - An array in the form <code>$handle =&gt; array(...)</code> representing parameters to pass to <a href=\"https://developer.wordpress.org/reference/functions/wp_enqueue_script/\"><code>wp_enqueue_script()</code></a>. This filter lets you <a href=\"https://secure.php.net/unset\"><code>unset()</code></a> JavaScript scripts to prevent the plugin from enqueuing them. Use this to tweak your site's performance by removing any scripts you know you will not need."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>jquery-datatables</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables-buttons</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables-buttons-colvis</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables-buttons-print</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>pdfmake</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>pdfmake-fonts</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>jszip</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables-buttons-html5</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables-select</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables-fixedheader</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables-fixedcolumns</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>datatables-responsive</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>igsv-datatables</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>google-ajax-api</code>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<code>igsv-gvizcharts</code>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "If you like this plugin, <strong>please consider <a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=meitarm%40gmail%2ecom&amp;lc=US&amp;item_name=Inline%20Google%20Spreadsheet%20Viewer%20WordPress%20Plugin&amp;item_number=inline%2dgdocs%2dviewer&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted\">making a donation</a> for your use of the plugin</strong>, <a href=\"http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fs%3Fie%3DUTF8%26redirect%3Dtrue%26sort%3Drelevancerank%26search-type%3Dss%26index%3Dbooks%26ref%3Dntt%255Fathr%255Fdp%255Fsr%255F2%26field-author%3DMeitar%2520Moscovitz&amp;tag=maymaydotnet-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957\">purchasing one of Meitar's web development books</a> or, better yet, contributing directly to <a href=\"http://Cyberbusking.org/\">Meitar's Cyberbusking fund</a>. (Publishing royalties ain't exactly the lucrative income it used to be, y'know?) Your support is appreciated!"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "This plugin provides one shortcode (<code>gdoc</code>) that can do many things through a combination of shortcode attributes. Every attribute must have a value. These attributes and their recognized values are documented here."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "To use chart customization options, you must also choose a chart type by including the <code>chart</code> attribute."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "The <strong>complete list of attributes for configurable chart options</strong> is below. Refer to <a href=\"https://google-developers.appspot.com/chart/interactive/docs/gallery\">Google's Chart Gallery documentation</a> for the type of chart you are using to learn more about which chart types support which chart options."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "To use DataTables customization options, you must not supply the <code>no-datatables</code> class."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "The <strong>complete list of core DataTables customization attributes</strong> is below. Please refer to the <a href=\"https://datatables.net/reference/option/\">DataTables Options reference</a> for more information about each particular option."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "In addition to the above, the following included DataTables extensions can be customized through these additional shortcode attributes:"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "This section documents hooks that the plugin implements. Developers of other plugins or themes can use these in their code to customize the way this plugin works."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "You can selectively dequeue any script or stylesheet this plugin adds by using the <code>gdoc_enqueued_front_end_*</code> filters to remove the scripts with the associated handle. The registered handles are listed here."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Scripts</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Stylesheets</strong>"
+msgstr ""
