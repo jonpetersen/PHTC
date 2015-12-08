@@ -19,12 +19,12 @@ CREATE TABLE `wp_phtc_revisr` (
   `event` varchar(42) NOT NULL,
   `user` varchar(60) DEFAULT NULL,
   UNIQUE KEY `id` (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 LOCK TABLES `wp_phtc_revisr` WRITE;
 /*!40000 ALTER TABLE `wp_phtc_revisr` DISABLE KEYS */;
-INSERT INTO `wp_phtc_revisr` VALUES (1,'2015-12-08 18:56:39','Successfully created a new repository.','init','phtc_admin'),(2,'2015-12-08 19:07:28','Successfully backed up the database.','backup','phtc_admin'),(3,'2015-12-08 19:07:33','Successfully backed up the database.','backup','phtc_admin'),(4,'2015-12-08 19:07:34','Error staging files.','error','phtc_admin'),(5,'2015-12-08 19:07:34','There was an error committing the changes to the local repository.','error','phtc_admin'),(6,'2015-12-08 19:07:35','Committed <a href=\"http://phtc.jonpetersen.co.uk/wp-admin/admin.php?page=revisr_view_commit&commit=eddb1f5&success=true\">#eddb1f5</a> to the local repository.','commit','phtc_admin'),(7,'2015-12-08 19:07:36','Error pushing changes to the remote repository.','error','phtc_admin');
+INSERT INTO `wp_phtc_revisr` VALUES (1,'2015-12-08 18:56:39','Successfully created a new repository.','init','phtc_admin'),(2,'2015-12-08 19:07:28','Successfully backed up the database.','backup','phtc_admin'),(3,'2015-12-08 19:07:33','Successfully backed up the database.','backup','phtc_admin'),(4,'2015-12-08 19:07:34','Error staging files.','error','phtc_admin'),(5,'2015-12-08 19:07:34','There was an error committing the changes to the local repository.','error','phtc_admin'),(6,'2015-12-08 19:07:35','Committed <a href=\"http://phtc.jonpetersen.co.uk/wp-admin/admin.php?page=revisr_view_commit&commit=eddb1f5&success=true\">#eddb1f5</a> to the local repository.','commit','phtc_admin'),(7,'2015-12-08 19:07:36','Error pushing changes to the remote repository.','error','phtc_admin'),(8,'2015-12-08 19:13:52','Successfully backed up the database.','backup','phtc_admin'),(9,'2015-12-08 19:13:53','Committed <a href=\"http://phtc.jonpetersen.co.uk/wp-admin/admin.php?page=revisr_view_commit&commit=f48e646&success=true\">#f48e646</a> to the local repository.','commit','phtc_admin'),(10,'2015-12-08 19:13:53','Error pushing changes to the remote repository.','error','phtc_admin'),(11,'2015-12-08 19:14:21','Error pushing changes to the remote repository.','error','phtc_admin'),(12,'2015-12-08 21:50:57','Error pushing changes to the remote repository.','error','phtc_admin');
 /*!40000 ALTER TABLE `wp_phtc_revisr` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
