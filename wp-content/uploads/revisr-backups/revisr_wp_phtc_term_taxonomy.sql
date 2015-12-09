@@ -27,7 +27,7 @@ CREATE TABLE `wp_phtc_term_taxonomy` (
 
 LOCK TABLES `wp_phtc_term_taxonomy` WRITE;
 /*!40000 ALTER TABLE `wp_phtc_term_taxonomy` DISABLE KEYS */;
-INSERT INTO `wp_phtc_term_taxonomy` VALUES (1,1,'category','',0,0),(2,2,'nav_menu','',0,26),(3,3,'category','',0,5),(4,4,'post_tag','',0,1),(5,5,'post_tag','',0,1),(6,6,'post_tag','',0,1),(7,7,'post_tag','',0,1),(8,8,'post_tag','',0,1),(9,9,'category','',0,1),(10,10,'post_tag','',0,1),(11,11,'post_tag','',0,1),(12,12,'calendar_feed','',0,1),(13,13,'calendar_type','',0,1),(14,14,'post_tag','',0,0);
+INSERT INTO `wp_phtc_term_taxonomy` VALUES (1,1,'category','',0,0),(2,2,'nav_menu','',0,26),(3,3,'category','',0,4),(4,4,'post_tag','',0,1),(5,5,'post_tag','',0,1),(6,6,'post_tag','',0,1),(7,7,'post_tag','',0,1),(8,8,'post_tag','',0,1),(9,9,'category','',0,1),(10,10,'post_tag','',0,1),(11,11,'post_tag','',0,1),(12,12,'calendar_feed','',0,1),(13,13,'calendar_type','',0,1),(14,14,'post_tag','',0,0);
 /*!40000 ALTER TABLE `wp_phtc_term_taxonomy` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
