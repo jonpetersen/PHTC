@@ -96,7 +96,7 @@ if (!class_exists('EasyFacebookPostFeed')){
 						    	if($data['picture'] != '' && $images == 'yes') echo '<img style="' . $alignment . '" src="' . $data['picture'] . '" alt="" />';
 						    	if($align == 'below') echo '<br style="clear:both;" />';
 						    	echo '' . substr($data['message'], 0, $length);
-						    	echo '<a class="readmore" href="' . $data['link'] . '" target="_blank">' . __("read more &raquo;", "easy-facebook-post-feed") . '</a>';
+						    	echo '<a class="readmore" href="https://www.facebook.com/' . $page_id . '" target="_blank">' . __("read more &raquo;", "easy-facebook-post-feed") . '</a>';
 						    	echo '</p></li>';
 					    	}
 					    }
